@@ -1,1 +1,1 @@
-This program reads a txt file in a URL, parses over every line and counts the characters and word count. Uses try/catch to handle possible exceptions like misconfigured and IO.
+This program reads a txt file in a URL, parses over every line and counts the characters and word count. Uses try/catch to handle possible exceptions like misconfigured and IO. For extra credit I wrote the program in python as well. I imported 2 different libraries to help with url handling; urllib and re.
